@@ -1,7 +1,7 @@
 ## Hola, I'm Pankaj Kumar 👋👋
 
 
-<a href="#">
+<a href="https://www.linkedin.com/in/pankaj-kumar-79663a190/">
   <img align="left" alt="Pankaj's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/pankajshahx">
@@ -10,13 +10,13 @@
 <a href="#">
   <img align="left" alt="Pankaj's Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="#">
+<a href="https://www.instagram.com/pankajshah.x/">
   <img align="left" alt="Pankaj's Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="#">
+<a href="https://leetcode.com/VenomX/">
   <img align="left" alt="Pankaj's LeetCode" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="#">
+<a href="https://www.hackerrank.com/pankajshah_x">
   <img align="left" alt="Pankaj's Hackerrank" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <a href="mailto:pankajshah.x@gmail.com">
