@@ -34,7 +34,7 @@ I'm a final year student pursuing Master of Computer Application 🎓 from Banar
 - 🔭 I’m currently working on Node.js, Express.js, React, Django, MongoDB, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
-- 📫 How to reach me: pankajshah.x@gmail.com | [LinkedIn](#) | [Twitter](#) | [Instagram](https://instagram.com/pankajshahx) | [Portfolio](https://pankajshahx.github.io/)
+- 📫 How to reach me: pankajshah.x@gmail.com | [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-79663a190/) | [Twitter](#) | [Instagram](https://www.instagram.com/pankajshah.x/) | [Portfolio](https://pankajshahx.github.io/)
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:pankajshah.x@gmail.com?Subject=Hello%20Pankaj) 👨‍💻.
