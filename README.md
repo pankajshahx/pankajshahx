@@ -31,7 +31,7 @@ An ambitious front-end developer with 2 year of experience, skilled in creating 
 
 ### More about me...
 
-- 🔭 I’m currently working on Node.js, Express.js, React, Django, MongoDB, etc 💻.
+- 🔭 I’m currently working on ReactJS, NodeJS, Javascript, Amazon Web Services(AWS) 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
 - 📫 How to reach me: pankajshah.x@gmail.com | [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-79663a190/) | [Twitter](#) | [Instagram](https://www.instagram.com/pankajshah.x/) | [Portfolio](https://suspicious-jones-c860b2.netlify.app)
