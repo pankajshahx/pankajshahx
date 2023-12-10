@@ -27,7 +27,7 @@
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=pankajshahx.pankajshahx)
 
-I have completed Master of Computer Application 🎓 from Banaras Hindu University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+An ambitious front-end developer with 2 year of experience skilled in creating captivating user interfaces and dynamic experiences. Demonstrates expertise in HTML5, CSS3, and JavaScript, proficiently utilizing modern frameworks like ReactJS, and NodeJS. Recognized for collaborating seamlessly with designers and data science team to produce top-notch web applications.
 
 ### More about me...
 
