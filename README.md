@@ -27,7 +27,7 @@
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=pankajshahx.pankajshahx)
 
-An ambitious front-end developer with 2 year of experience skilled in creating captivating user interfaces and dynamic experiences. Demonstrates expertise in HTML5, CSS3, and JavaScript, proficiently utilizing modern frameworks like ReactJS, and NodeJS. Recognized for collaborating seamlessly with designers and data science team to produce top-notch web applications.
+An ambitious front-end developer with 2 year of experience, skilled in creating captivating user interfaces and dynamic experiences. Demonstrates expertise in HTML5, CSS3, and JavaScript, proficiently utilizing modern frameworks like ReactJS, and NodeJS. Recognized for collaborating seamlessly with designers and data science team to produce top-notch web applications.
 
 ### More about me...
 
